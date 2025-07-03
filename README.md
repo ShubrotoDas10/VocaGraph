@@ -25,6 +25,7 @@
 
 Spectrogram
 
+
 1.trumpet
 ![1](https://github.com/user-attachments/assets/43010df2-5ce7-4cbb-bbba-4afb652a6fb5)
 2.robin
