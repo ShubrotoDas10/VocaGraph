@@ -19,6 +19,9 @@
 - ✅ Edge weights based on frequency
 - ✅ Visualization with `matplotlib`
 
+- ![a41dab10-5840-48ee-aa24-2ce56ba0afe0](https://github.com/user-attachments/assets/9b42ea7d-fed8-4be5-952f-9ea8bd770cf6)
+
+
 ---
 
 ## 📊 Sample Graph Output
