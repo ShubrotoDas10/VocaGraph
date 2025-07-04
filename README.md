@@ -54,6 +54,19 @@ Spectrogram
 ## 🚀 Getting Started
 
 ### 🔧 Installation
-```bash
-pip install spacy networkx matplotlib
-python -m spacy download en_core_web_sm
+   ```bash
+    pip install spacy networkx matplotlib
+    python -m spacy download en_core_web_sm
+```
+---
+
+## License
+
+[MIT License © 2025 Shubroto Das](LICENSE)
+
+---
+
+## Author
+
+Shubroto Das
+[GitHub Profile](https://github.com/ShubrotoDas10)
