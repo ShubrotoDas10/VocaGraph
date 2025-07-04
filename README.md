@@ -29,13 +29,26 @@
 Spectrogram
 
 
-1.trumpet
+``1.trumpet
+``
 ![1](https://github.com/user-attachments/assets/43010df2-5ce7-4cbb-bbba-4afb652a6fb5)
-2.robin
+
+
+``2.robin
+``
+
 ![2](https://github.com/user-attachments/assets/e89d7470-48aa-4ace-a44d-81d7e8261c20)
-3.pistachio
+
+
+``3.pistachio
+``
+
 ![3](https://github.com/user-attachments/assets/db588b99-d445-4f38-a9ab-1a532e49dc44)
-4.sweetwaltz
+
+
+``4.sweetwaltz
+``
+
 ![4](https://github.com/user-attachments/assets/1e91f20c-b9f1-46e2-badc-c3ff69ef4ce3)
 
 ---
